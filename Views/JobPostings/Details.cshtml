@@ -1,13 +1,11 @@
 ﻿@model WebAppJobSearchOnline.Data.JobPosting
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Job Postings - Details";
 }
 
-<h1>Details</h1>
-
 <div>
-    <h4>JobPosting</h4>
+    <h4>Job Postings - Details</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -32,13 +30,13 @@
             @Html.DisplayNameFor(model => model.SalaryMin)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.SalaryMin)
+            @String.Format("{0:C}", Model.SalaryMin) <!-- Format as currency (NZD) -->
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.SalaryMax)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.SalaryMax)
+            @String.Format("{0:C}", Model.SalaryMax) <!-- Format as currency (NZD) -->
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.JobType)
@@ -56,13 +54,13 @@
             @Html.DisplayNameFor(model => model.StartPosting)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.StartPosting)
+            @Model.StartPosting.ToString("dd-MMM-yyyy") <!-- Custom date format -->
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.EndPosting)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.EndPosting)
+            @Model.EndPosting.ToString("dd-MMM-yyyy") <!-- Custom date format -->
         </dd>
     </dl>
 </div>

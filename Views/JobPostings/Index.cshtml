@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<WebAppJobSearchOnline.Data.JobPosting>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Job Postings";
 }
 
-<h1>Index</h1>
+<h4>Job Postings</h4>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -55,10 +55,10 @@
                 @Html.DisplayFor(modelItem => item.Location)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.SalaryMin)
+                @String.Format("{0:C}", item.SalaryMin) <!-- Format as currency (NZD) -->
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.SalaryMax)
+                @String.Format("{0:C}", item.SalaryMax) <!-- Format as currency (NZD) -->
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.JobType)
@@ -67,10 +67,10 @@
                 @Html.DisplayFor(modelItem => item.Status)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.StartPosting)
+                @item.StartPosting.ToString("dd-MMM-yyyy") <!-- Custom date format -->
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.EndPosting)
+                @item.EndPosting.ToString("dd-MMM-yyyy") <!-- Custom date format -->
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

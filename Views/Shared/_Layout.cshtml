@@ -3,13 +3,60 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - WebAppJobSearchOnline</title>
+    <title>@ViewData["Title"] - CareerConnect</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebAppJobSearchOnline.styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Left Sidebar -->
+            <div class="col-md-3 col-lg-2 d-md-block sidebar collapse">
+                <div class="position-sticky pt-3">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="@Url.Action("Index", "Home")">
+                                Home
+                            </a>
+                        </li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "JobPostings")">
+                                    Job Postings
+                                </a>
+                            </li>
+                        }
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "JobApplications")">
+                                    Job Applications
+                                </a>
+                            </li>
+                            @if (User.IsInRole("User"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" href="@Url.Action("Index", "JobSearch")">
+                                        Job Search
+                                    </a>
+                                </li>
+                            }
+						}
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+            <!-- Main Content -->
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+
+    @* <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebAppJobSearchOnline</a>
@@ -49,11 +96,11 @@
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-    </div>
+    </div> *@
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - WebAppJobSearchOnline
+        <div class="container text-center">
+            &copy; 2025 - CareerConnect
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

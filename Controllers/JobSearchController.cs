@@ -14,7 +14,7 @@ using WebAppJobSearchOnline.Models;
 
 namespace WebAppJobSearchOnline.Controllers
 {
-    [Authorize(Roles = "Admin, User")]
+    [Authorize(Roles = "User")]
     public class JobSearchController : Controller
     {
         private readonly ApplicationDbContext _context;
