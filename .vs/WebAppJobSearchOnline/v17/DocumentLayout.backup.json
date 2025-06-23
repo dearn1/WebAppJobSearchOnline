@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\views\\jobsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:views\\jobsearch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\controllers\\jobsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:controllers\\jobsearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\views\\jobsearch\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:views\\jobsearch\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|c:\\users\\admin\\onedrive - auckland institute of studies\\documents\\repo_github\\webappjobsearchonline\\webappjobsearchonline\\data\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4552A66A-C514-40DC-91F0-762C532C7ABC}|WebAppJobSearchOnline.csproj|solutionrelative:data\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JobSearchController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobSearchController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobSearchController.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobSearchController.cs",
-              "RelativeToolTip": "Controllers\\JobSearchController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Data\\JobPosting.cs",
+              "RelativeDocumentMoniker": "Data\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Data\\JobPosting.cs",
+              "RelativeToolTip": "Data\\JobPosting.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:08:57.311Z",
+              "WhenOpened": "2025-06-23T14:23:46.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Views\\JobSearch\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\JobSearch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Views\\JobSearch\\Index.cshtml",
+              "RelativeToolTip": "Views\\JobSearch\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:19:10.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwB8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T17:55:21.699Z",
+              "Title": "JobSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobSearchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobSearchController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobSearchController.cs",
+              "RelativeToolTip": "Controllers\\JobSearchController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:01:58.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JobApplicationsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobApplicationsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobApplicationsController.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobApplicationsController.cs",
-              "RelativeToolTip": "Controllers\\JobApplicationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:55:02.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JobPostingsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobPostingsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobPostingsController.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Controllers\\JobPostingsController.cs",
-              "RelativeToolTip": "Controllers\\JobPostingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:53:24.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFYAAAAKAAAAAAAAAA==",
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Views\\JobSearch\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\JobSearch\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\Views\\JobSearch\\Apply.cshtml",
+              "RelativeToolTip": "Views\\JobSearch\\Apply.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-21T04:28:34.298Z",
+              "WhenOpened": "2025-06-23T08:35:52.605Z",
               "EditorCaption": ""
             }
           ]

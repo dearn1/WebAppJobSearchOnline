@@ -77,6 +77,7 @@ namespace WebAppJobSearchOnline.Areas.Identity.Pages.Account
                     $"Please reset your password by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
 
                 return RedirectToPage("./ForgotPasswordConfirmation");
+                //return RedirectToPage("./ResetPassword/?code=" + code);
             }
 
             return Page();

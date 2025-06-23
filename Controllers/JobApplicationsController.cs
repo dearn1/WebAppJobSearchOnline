@@ -23,7 +23,24 @@ namespace WebAppJobSearchOnline.Controllers
         // GET: JobApplications
         public async Task<IActionResult> Index()
         {
-            return View(await _context.JobApplications.ToListAsync());
+            if (User.IsInRole("Admin"))
+            {
+                // If the user is an admin, show all job applications
+                return View(await _context.JobApplications.ToListAsync());
+            }
+            else if (User.IsInRole("User"))
+            {
+                var jobApplications = _context.JobApplications
+                    .Where(P => P.UserId.Equals(User.Identity.Name)).ToList();
+
+                return View(jobApplications);
+            } else
+            {
+                var jobApplications = _context.JobApplications
+                    .Where(P => P.UserId.Equals("")).ToList();
+
+                return View(jobApplications);
+            }
         }
 
         // GET: JobApplications/Details/5
