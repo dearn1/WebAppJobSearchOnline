@@ -12,14 +12,17 @@
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="CVFilePath" />
+            <input type="hidden" asp-for="CVFileName" />
+            <input type="hidden" asp-for="CVFileType" />
             <div class="form-group">
                 <label asp-for="JobPostingId" class="control-label"></label>
-                <input asp-for="JobPostingId" class="form-control" />
+                <input asp-for="JobPostingId" class="form-control" readonly />
                 <span asp-validation-for="JobPostingId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="UserId" class="control-label"></label>
-                <input asp-for="UserId" class="form-control" />
+                <input asp-for="UserId" class="form-control" readonly />
                 <span asp-validation-for="UserId" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -35,13 +38,12 @@
                     <select asp-for="Status" class="form-control" asp-items="@(new SelectList(new List<string> {ApplicationStatus.Applied, ApplicationStatus.Withdrawn }))">
                         <option value="">-- Select Status --</option>
                     </select>
-                }
-                
+                }                
                 <span asp-validation-for="Status" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="AppliedDate" class="control-label"></label>
-                <input asp-for="AppliedDate" class="form-control" />
+                <input asp-for="AppliedDate" class="form-control" readonly />
                 <span asp-validation-for="AppliedDate" class="text-danger"></span>
             </div>
             <div class="form-group">

@@ -12,5 +12,8 @@ namespace WebAppJobSearchOnline.Data
         public string UserId { get; set; }
         public string Status {  get; set; }
         public DateTime AppliedDate { get; set; }
+        public string CVFilePath { get; set; }
+        public string CVFileName { get; set; }
+        public string CVFileType { get; set; }
     }
 }

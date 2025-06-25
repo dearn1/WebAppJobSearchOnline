@@ -720,6 +720,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 23:46:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.nn84xpygvf.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nn84xpygvf"},{"Name":"integrity","Value":"sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="},{"Name":"label","Value":"_content/WebAppJobSearchOnline/uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"166051"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 05:56:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"166051"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 05:56:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/WebAppJobSearchOnline.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppJobSearchOnline.gy8spi074h.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

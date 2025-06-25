@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "roBtYa/KxCpb62Q9GFx3SFtxrgOE/ZWD8pq+WK21+Ic=",
+  "Hash": "FCo5BsIljzZ4MyoyENGmmq6M0a2Kx68pg6giwRas5vw=",
   "Source": "WebAppJobSearchOnline",
   "BasePath": "_content/WebAppJobSearchOnline",
   "Mode": "Default",
@@ -2577,6 +2577,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
+      "SourceId": "WebAppJobSearchOnline",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\",
+      "BasePath": "_content/WebAppJobSearchOnline",
+      "RelativePath": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nn84xpygvf",
+      "Integrity": "LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf"
     }
   ],
   "Endpoints": [
@@ -9717,6 +9738,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.nn84xpygvf.pdf",
+      "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 05:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nn84xpygvf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
+      "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 05:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="
         }
       ]
     },

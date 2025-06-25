@@ -1080,6 +1080,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppJobSearchOnline</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppJobSearchOnline</BasePath>
+      <RelativePath>uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nn84xpygvf</Fingerprint>
+      <Integrity>LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppJobSearchOnline.gy8spi074h.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppJobSearchOnline</SourceId>

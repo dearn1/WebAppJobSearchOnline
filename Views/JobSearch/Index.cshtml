@@ -58,9 +58,6 @@
                 @Html.DisplayNameFor(model => model.Title)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Requirements)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Location)
             </th>
             <th>
@@ -91,16 +88,13 @@
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Requirements)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.Location)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.SalaryMin)
+                @String.Format("{0:C}", item.SalaryMin) <!-- Format as currency (NZD) -->
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.SalaryMax)
+                @String.Format("{0:C}", item.SalaryMax) <!-- Format as currency (NZD) -->
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.JobType)
@@ -109,15 +103,12 @@
                 @Html.DisplayFor(modelItem => item.Status)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.StartPosting)
+                @item.StartPosting.ToString("dd-MMM-yyyy") <!-- Custom date format -->
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.EndPosting)
+                @item.EndPosting.ToString("dd-MMM-yyyy") <!-- Custom date format -->
             </td>
             <td>
-              @*   <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> *@
                 <a asp-action="Apply" asp-route-id="@item.Id">Apply</a>
             </td>
         </tr>

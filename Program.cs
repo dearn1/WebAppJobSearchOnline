@@ -12,6 +12,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 //builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
+builder.Services.AddSingleton<IWebHostEnvironment>(builder.Environment);
+
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
         .AddDefaultUI()

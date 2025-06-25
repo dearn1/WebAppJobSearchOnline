@@ -32,6 +32,18 @@
         <dd class = "col-sm-10">
             @Model.AppliedDate.ToString("dd-MMM-yyyy") <!-- Custom date format -->
         </dd>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.CVFileName))
+            {
+                <a asp-action="DownloadCV" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-primary">
+                    Download @Model.CVFileName
+                </a>
+            }
+            else
+            {
+                <span>No CV uploaded</span>
+            }
+        </dd>
     </dl>
 </div>
 <div>

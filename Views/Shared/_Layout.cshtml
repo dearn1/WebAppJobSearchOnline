@@ -8,7 +8,17 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebAppJobSearchOnline.styles.css" asp-append-version="true" />
 </head>
+
 <body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            
+        </div>
+            <partial name="_LoginPartial" />
+        </nav>
+    </header>
+
     <div class="container-fluid">
         <div class="row">
             <!-- Left Sidebar -->
@@ -45,7 +55,7 @@
                             }
 						}
                     </ul>
-                    <partial name="_LoginPartial" />
+                    @* <partial name="_LoginPartial" /> *@
                 </div>
             </div>
             <!-- Main Content -->
