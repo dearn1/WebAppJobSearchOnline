@@ -72,10 +72,21 @@ namespace WebAppJobSearchOnline.Areas.Identity.Pages.Account
         /// </summary>
         public class InputModel
         {
+            [Required]
             public string? FirstName { get; set; }
+            [Required]
             public string? LastName { get; set; }
+
+            [Required]
+            [RegularExpression(@"^(\+64|0)2\d{1}[- ]?\d{3}[- ]?\d{4}$", ErrorMessage = "Invalid New Zealand mobile number format.")]
+
             public string? PhoneNumber { get; set; }
+
+            [Required]
             public string? Address { get; set; }
+
+            [Url]
+            [Required]
             public string? Url { get; set; }
 
 

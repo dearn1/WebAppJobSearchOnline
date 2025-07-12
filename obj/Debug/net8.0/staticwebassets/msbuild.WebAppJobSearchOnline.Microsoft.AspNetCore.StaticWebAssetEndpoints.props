@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sfN9BJ\u002BLHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sfN9BJ\u002BLHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Jun 2025 17:54:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 19:07:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/css/site.x0dfci3ri0.css">
+    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/css/site.dnt7itfy4l.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x0dfci3ri0"},{"Name":"integrity","Value":"sha256-sfN9BJ\u002BLHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw="},{"Name":"label","Value":"_content/WebAppJobSearchOnline/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sfN9BJ\u002BLHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Jun 2025 17:54:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dnt7itfy4l"},{"Name":"integrity","Value":"sha256-JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug="},{"Name":"label","Value":"_content/WebAppJobSearchOnline/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1440"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 19:07:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -720,17 +720,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Jun 2025 23:46:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.nn84xpygvf.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nn84xpygvf"},{"Name":"integrity","Value":"sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="},{"Name":"label","Value":"_content/WebAppJobSearchOnline/uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"166051"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 05:56:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"90901"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 30 Jun 2025 22:13:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.xqxnxvgpz3.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cvs\42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"166051"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 05:56:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xqxnxvgpz3"},{"Name":"integrity","Value":"sha256-Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M="},{"Name":"label","Value":"_content/WebAppJobSearchOnline/uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"90901"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=\u0022"},{"Name":"Last-Modified","Value":"Mon, 30 Jun 2025 22:13:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebAppJobSearchOnline/WebAppJobSearchOnline.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\WebAppJobSearchOnline.gy8spi074h.bundle.scp.css'))</AssetFile>

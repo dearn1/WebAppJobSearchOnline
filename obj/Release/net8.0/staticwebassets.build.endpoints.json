@@ -2305,51 +2305,6 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 23:46:52 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
@@ -2364,7 +2319,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "1440"
         },
         {
           "Name": "Content-Type",
@@ -2372,17 +2327,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 23:46:52 GMT"
+          "Value": "Wed, 25 Jun 2025 19:07:30 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.dnt7itfy4l.css",
+      "AssetFile": "css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 19:07:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnt7itfy4l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug="
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
         }
       ]
     },
@@ -7221,6 +7221,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
+      "AssetFile": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2025 22:13:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.xqxnxvgpz3.pdf",
+      "AssetFile": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2025 22:13:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqxnxvgpz3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf"
         }
       ]
     }

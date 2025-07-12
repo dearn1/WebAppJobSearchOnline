@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppJobSearchOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9cd464b8bbe091a29015176aebaeaa8b96f868e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f37f7fff9ccb4cfdd38a90d00c8f24439c015c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppJobSearchOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppJobSearchOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

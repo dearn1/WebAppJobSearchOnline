@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FCo5BsIljzZ4MyoyENGmmq6M0a2Kx68pg6giwRas5vw=",
+  "Hash": "Q6fcnsYJmyj0HxOELrwzmIqZpWKgc4xjwj01fFMa8lM=",
   "Source": "WebAppJobSearchOnline",
   "BasePath": "_content/WebAppJobSearchOnline",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x0dfci3ri0",
-      "Integrity": "sfN9BJ+LHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw=",
+      "Fingerprint": "dnt7itfy4l",
+      "Integrity": "JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2579,12 +2579,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
+      "Identity": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
       "SourceId": "WebAppJobSearchOnline",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\",
       "BasePath": "_content/WebAppJobSearchOnline",
-      "RelativePath": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form#[.{fingerprint}]?.pdf",
+      "RelativePath": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2593,11 +2593,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nn84xpygvf",
-      "Integrity": "LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=",
+      "Fingerprint": "xqxnxvgpz3",
+      "Integrity": "Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\cvs\\42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf"
     }
   ],
   "Endpoints": [
@@ -2620,11 +2620,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sfN9BJ+LHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw=\""
+          "Value": "\"JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 17:54:57 GMT"
+          "Value": "Wed, 25 Jun 2025 19:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2634,12 +2634,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sfN9BJ+LHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw="
+          "Value": "sha256-JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug="
         }
       ]
     },
     {
-      "Route": "css/site.x0dfci3ri0.css",
+      "Route": "css/site.dnt7itfy4l.css",
       "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2657,11 +2657,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sfN9BJ+LHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw=\""
+          "Value": "\"JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 17:54:57 GMT"
+          "Value": "Wed, 25 Jun 2025 19:07:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2671,7 +2671,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x0dfci3ri0"
+          "Value": "dnt7itfy4l"
         },
         {
           "Name": "label",
@@ -2679,7 +2679,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sfN9BJ+LHUc3aML/Ob5iNYqPbdpT4xcE15oEZhvJChw="
+          "Value": "sha256-JxhKF0OGnFbqOeeZBboNPM1UD8TKNFsGTmqhMbe1fug="
         }
       ]
     },
@@ -9742,8 +9742,8 @@
       ]
     },
     {
-      "Route": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.nn84xpygvf.pdf",
-      "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
+      "Route": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
+      "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9752,7 +9752,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "166051"
+          "Value": "90901"
         },
         {
           "Name": "Content-Type",
@@ -9760,56 +9760,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\""
+          "Value": "\"Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 05:56:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nn84xpygvf"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/cvs/966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
-      "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\966f05db-7e62-4801-9836-6a543ba8e48c_AOC Patient Registration Form.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "166051"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 25 Jun 2025 05:56:36 GMT"
+          "Value": "Mon, 30 Jun 2025 22:13:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9819,7 +9774,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LRYWp6PmoDj3HGQ9jOpuEwVlOzVbLxfXTs0/ARvA/oQ="
+          "Value": "sha256-Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.xqxnxvgpz3.pdf",
+      "AssetFile": "C:\\Users\\admin\\OneDrive - Auckland Institute of Studies\\Documents\\REPO_GITHUB\\WebAppJobSearchOnline\\WebAppJobSearchOnline\\wwwroot\\uploads\\cvs\\42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2025 22:13:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqxnxvgpz3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cvs/42c578cd-0bbe-4fa5-881a-54a9eaa8f88f_Proposal _ AIS Moodle.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxjjyg9Ref/mjiD5fhQnR4LPvyPPgTzshXhYWou9V5M="
         }
       ]
     },
